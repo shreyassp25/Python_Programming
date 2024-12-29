@@ -22,6 +22,9 @@ print("result is {r:1.3f}.".format(r=result))
 print(f"hello there {name}")
 
 
+### use f-strings method as it consumes lesser space
+
+
 
 
 
