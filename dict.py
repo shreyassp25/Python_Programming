@@ -21,6 +21,15 @@ d["key1"][2]=d["key1"][2].upper()
 print(d)
 print(d["key1"])
 
+d["k3"]=["newkey"]
+
+print(d)
+
+
+print(d.keys())
+print(d.values())
+print(d.items())
+
 ####go through....imp code
 
 
