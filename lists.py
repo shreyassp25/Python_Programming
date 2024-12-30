@@ -6,5 +6,17 @@ list.append(10)
 print(list)
 new=list.pop()
 print (new)
+list.sort()
+
+print(list)
+
+newl=sorted(list)
+
+print (newl)
+
+list.reverse()
+
+print (list)
+
 
 
