@@ -13,6 +13,19 @@ dict2={"k1":"123","k2":[12,13,14],"k3":{"inside":"321"}}
 print(dict2["k3"])
 
 
+d={"key1":["a","b","c"]}
+print(d["key1"][1])
+
+d["key1"][2]=d["key1"][2].upper()
+
+print(d)
+print(d["key1"])
+
+####go through....imp code
+
+
+
+
 
 
 
