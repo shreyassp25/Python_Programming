@@ -1,6 +1,6 @@
 # dictionary is a set of key value pairs
 # mutable
-# indexed
+
 # cannot contain duplicate keys
 
 

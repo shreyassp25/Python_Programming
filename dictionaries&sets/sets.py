@@ -3,6 +3,7 @@
 # 2. Sets are unindexed => Cannot access elements by index
 # 3. There is no way to change items in sets.
 # 4. Sets cannot contain duplicate values.
+# can only add immutable or hashable objects
 
 s=set()
 
