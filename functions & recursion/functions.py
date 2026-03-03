@@ -2,7 +2,8 @@
 
 # code to use functions to get the average of 2 numbers
 
-# when u use return in average... 
+# tyoes  of functions-  1. built in - len(), print(), range()
+#                       2. user defined
 
 def average(a,b):
     average = (a+b)/2
